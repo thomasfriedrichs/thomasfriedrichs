@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### My name is Thomas! I am a recent bootcamp grad about to start an internship
+### My name is Thomas! I am a recent bootcamp grad about to start an internship,
+### please feel free to reach out!
 
 Here are some ideas to get you started:
 
@@ -11,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about https://github.com/thomasfriedrichs/crossplay
 - 📫 How to reach me: friedrichs.tommy@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=tokyonight)
 
