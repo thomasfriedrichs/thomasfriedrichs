@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### My name is Thomas! I am a recent bootcamp grad about to start an internship,
-### please feel free to reach out!
+### My name is Thomas! I am a recent bootcamp grad about to start an internship, please feel free to reach out!
 
 Here are some ideas to get you started:
 
