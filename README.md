@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical) [![Thomas's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies 
+### Here are some technologies I love to use
 
 ![Bootstrap Icon](./Assets/bootstrap.png) ![C Sharp Icon](./Assets/csharp.png) ![Css Icon](./Assets/css3.png) ![Git Icon](./Assets/git.png) ![Html Icon](./Assets/html5.png) ![Javascript Icon](./Assets/javascript.png) ![React Icon](./Assets/react.png) ![Redux Icon](./Assets/redux.png) ![Dot Net Icon](./Assets/microsoft-dotnet.png) ![My Sequel  Icon](./Assets/mysql.png) ![Sass Icon](./Assets/sass.png)
