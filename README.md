@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Technologies 
 
-![Bootstrap Icon](./Assets/bootstrap.png) 
+![Bootstrap Icon](./Assets/bootstrap.png) ![C Sharp Icon](./Assets/csharp.png) ![Css Icon](./Assets/css3.png) ![Git Icon](./Assets/git.png) ![Html Icon](./Assets/html5.png) ![Javascript Icon](./Assets/javascript.png) ![React Icon](./Assets/react.png) ![Redux Icon](./Assets/redux.png) ![Dot Net Icon](./Assets/microsoft-dotnet.png) ![My Sequel  Icon](./Assets/mysql.png) ![Sass Icon](./Assets/sass.png)
