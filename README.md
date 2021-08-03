@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my capstone project: https://github.com/thomasfriedrichs/crossplay 
 - 🌱 I’m currently focused mastering my React skills
-- 👯 I’m looking to collaborate on any sort of full stack demo sites
+- 👯 I’m looking to collaborate on any sort of full stack demo sites (restaurant/salon for example)
 - 🤔 I’m looking for help with https://github.com/thomasfriedrichs/crossplay 
 - 💬 Ask me about https://github.com/thomasfriedrichs/crossplay 
 - 📫 How to reach me: friedrichs.tommy@gmail.com
