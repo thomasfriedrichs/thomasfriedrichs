@@ -15,8 +15,8 @@
   <p>Thanks for taking the time to check out my GitHub. (:</p>
 </div>
   <div>
-    <img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical" style="display:inline-block; height:300px" width="49%"/>
-    <img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10" style="display:inline-block; float:right; height:300px" width="49%"/>
+    <img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical" style="display:inline-block;" width="49%"/>
+    <img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10" style="display:inline-block; float:right" width="49%"/>
   </div>
 <hr/>
 
