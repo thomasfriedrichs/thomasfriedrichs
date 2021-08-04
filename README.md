@@ -16,7 +16,7 @@
 </div>
   <div>
     <img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical&hide_border=true" style="display:inline-block" width="49%"/>
-    <img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10&hide_border=true" style="display:inline-block; float:right" width="49%"/>
+    <img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10&hide_border=true&hide=smalltalk" style="display:inline-block; float:right" width="49%"/>
   </div>
 <hr/>
 
