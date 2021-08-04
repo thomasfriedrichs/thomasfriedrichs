@@ -14,14 +14,9 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical" style="display:inline-block" width="49%"/>
+<img alt="Thomas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical" style="display:inline-block" width="48%"/>
 
-<img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10" style="display:inline-block; float:right" width="49%"/>
-     
-     
-     
-     
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfriedrichs&show_icons=true&theme=radical) [![Thomas's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Thomas's Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfriedrichs&layout=compact&theme=radical&langs_count=10" style="display:inline-block; float:right" width="48%"/>
 
 ### Here are some technologies I love to use
 
