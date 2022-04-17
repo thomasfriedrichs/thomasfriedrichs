@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Thomas! I am a recent bootcamp grad about to start an internship, please feel free to reach out!
+### My name is Thomas! I am a bootcamp graduate that specializes in react, ASP.NET and node/express. I am currently open to work, please feel free to reach out!
 
   - 🔭 I’m currently working on a website for a hairstylist: https://github.com/thomasfriedrichs/york-hair 
   - 🌱 I’m currently focused mastering my React skills
