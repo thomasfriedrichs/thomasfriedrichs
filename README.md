@@ -1,11 +1,11 @@
 ## Hi there 👋
 ### My name is Thomas! I am a recent bootcamp grad about to start an internship, please feel free to reach out!
 
-  - 🔭 I’m currently working on my capstone project: https://github.com/thomasfriedrichs/crossplay 
+  - 🔭 I’m currently working on a website for a hairstylist: https://github.com/thomasfriedrichs/york-hair 
   - 🌱 I’m currently focused mastering my React skills
-  - 👯 I’m looking to collaborate on any sort of full stack demo sites (restaurant/salon for example)
-  - 🤔 I’m looking for help with https://github.com/thomasfriedrichs/crossplay 
-  - 💬 Ask me about https://github.com/thomasfriedrichs/crossplay 
+  - 👯 I’m looking to collaborate on any sort of full stack demo sites
+  - 🤔 I’m looking for help with https://github.com/thomasfriedrichs/Akimbo 
+  - 💬 Ask me about https://github.com/thomasfriedrichs/Akimbo 
   - 📫 How to reach me: friedrichs.tommy@gmail.com
   - 😄 Pronouns: He/Him
 <hr/>
