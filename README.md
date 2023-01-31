@@ -1,5 +1,5 @@
-## Hi there 👋
-### My name is Thomas! I am a bootcamp graduate that specializes in react, ASP.NET and node/express. I am currently open to work, please feel free to reach out!
+## Hi there 👋 I'm Thomas
+###  I am a recent graduate of a coding bootcamp where I honed my skills in full stack development. With a drive to enter the tech industry, I am currently working on personal projects to showcase my skills and build my portfolio.
 
   - 🔭 I’m currently working on a website for a hairstylist: https://github.com/thomasfriedrichs/york-hair 
   - 🌱 I’m currently focused mastering my React skills
