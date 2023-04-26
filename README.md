@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Thomas
 ###  I am a recent graduate of a coding bootcamp where I honed my skills in full stack development. With a drive to enter the tech industry, I am currently working on personal projects to showcase my skills and build my portfolio.
 
-  - 🔭 I’m currently working on a fitness app for my portfolio: https://github.com/thomasfriedrichs/york-hair 
+  - 🔭 I’m currently working on a fitness app for my portfolio: https://github.com/thomasfriedrichs/Fitlance2
   - 👯 I’m looking to collaborate on any sort of full stack demo sites
-  - 💬 Ask me about https://github.com/thomasfriedrichs/Akimbo 
   - 📫 How to reach me: friedrichs.tommy@gmail.com
   - 😄 Pronouns: He/Him
 <hr/>
