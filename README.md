@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Thomas
-###  I am a graduate of a coding bootcamp where I honed my skills in full stack development. With a drive to enter the tech industry, I am currently working on personal projects to showcase my skills and build my portfolio.
+###  I am a graduate of a coding bootcamp where I honed my skills in full stack development. With a passion for programming and developing products, I am currently working on personal projects to showcase my skills and build my portfolio.
 
   - 🔭 I’m currently working on a fitness app for my portfolio: https://github.com/thomasfriedrichs/Fitlance2
   - 👯 I’m looking to collaborate on any sort of full stack demo sites
